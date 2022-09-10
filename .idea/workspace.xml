@@ -2,22 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9311fa82-1eb4-42d7-89a0-7bced49fe3b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week2/New folder/MATLAB_scripts.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week2/New folder/automatic_Sn_female_loud.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week2/New folder/automatic_Sn_female_time_varying.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week2/New folder/automatic_Sn_male_loud.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week2/New folder/automatic_Sn_male_time_varying.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week2/New folder/denoised_audio_files.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week2/New folder/female_loud.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week2/New folder/female_soft.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week2/New folder/female_soft.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week2/New folder/female_time_varying.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week2/New folder/male_loud.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week2/New folder/male_soft.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week2/New folder/male_soft.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week2/New folder/male_time_varying.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/DFT.m" beforeDir="false" afterPath="$PROJECT_DIR$/DFT/DFT.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/DFT_timing.m" beforeDir="false" afterPath="$PROJECT_DIR$/DFT/DFT_timing.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/DFT_vectorized.m" beforeDir="false" afterPath="$PROJECT_DIR$/DFT/DFT_vectorized.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/DTF_test.m" beforeDir="false" afterPath="$PROJECT_DIR$/DFT/DTF_test.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/amplitude.m" beforeDir="false" afterPath="$PROJECT_DIR$/DFT/amplitude.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/audio_window.m" beforeDir="false" afterPath="$PROJECT_DIR$/DFT/audio_window.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/determine_window.m" beforeDir="false" afterPath="$PROJECT_DIR$/DFT/determine_window.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/isolation.m" beforeDir="false" afterPath="$PROJECT_DIR$/DFT/isolation.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/organ_note.m" beforeDir="false" afterPath="$PROJECT_DIR$/DFT/organ_note.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/random_audio_written.wav" beforeDir="false" afterPath="$PROJECT_DIR$/DFT/random_audio_written.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/timings.fig" beforeDir="false" afterPath="$PROJECT_DIR$/DFT/timings.fig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/window.m" beforeDir="false" afterPath="$PROJECT_DIR$/DFT/window.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/automatic_Sn_female_loud.m" beforeDir="false" afterPath="$PROJECT_DIR$/Audio_Denoising/automatic_Sn_female_loud.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/automatic_Sn_female_soft.m" beforeDir="false" afterPath="$PROJECT_DIR$/Audio_Denoising/automatic_Sn_female_soft.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/automatic_Sn_female_time_varying.m" beforeDir="false" afterPath="$PROJECT_DIR$/Audio_Denoising/automatic_Sn_female_time_varying.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/automatic_Sn_male_loud.m" beforeDir="false" afterPath="$PROJECT_DIR$/Audio_Denoising/automatic_Sn_male_loud.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/automatic_Sn_male_soft.m" beforeDir="false" afterPath="$PROJECT_DIR$/Audio_Denoising/automatic_Sn_male_soft.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/automatic_Sn_male_time_varying.m" beforeDir="false" afterPath="$PROJECT_DIR$/Audio_Denoising/automatic_Sn_male_time_varying.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/blockwise_automatic_Sn_female_loud.m" beforeDir="false" afterPath="$PROJECT_DIR$/Audio_Denoising/blockwise_automatic_Sn_female_loud.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/blockwise_automatic_Sn_female_time_varying.m" beforeDir="false" afterPath="$PROJECT_DIR$/Audio_Denoising/blockwise_automatic_Sn_female_time_varying.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/blockwise_automatic_Sn_male_loud.m" beforeDir="false" afterPath="$PROJECT_DIR$/Audio_Denoising/blockwise_automatic_Sn_male_loud.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/blockwise_automatic_Sn_male_time_varying.m" beforeDir="false" afterPath="$PROJECT_DIR$/Audio_Denoising/blockwise_automatic_Sn_male_time_varying.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/female_loud.m" beforeDir="false" afterPath="$PROJECT_DIR$/Audio_Denoising/female_loud.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/female_soft.m" beforeDir="false" afterPath="$PROJECT_DIR$/Audio_Denoising/female_soft.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/female_time_varying.m" beforeDir="false" afterPath="$PROJECT_DIR$/Audio_Denoising/female_time_varying.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/male_loud.m" beforeDir="false" afterPath="$PROJECT_DIR$/Audio_Denoising/male_loud.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/male_soft.m" beforeDir="false" afterPath="$PROJECT_DIR$/Audio_Denoising/male_soft.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/male_time_varying.m" beforeDir="false" afterPath="$PROJECT_DIR$/Audio_Denoising/male_time_varying.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/overlap_add.m" beforeDir="false" afterPath="$PROJECT_DIR$/Audio_Denoising/overlap_add.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/own_filter_func.m" beforeDir="false" afterPath="$PROJECT_DIR$/Audio_Denoising/own_filter_func.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/own_filter_test.m" beforeDir="false" afterPath="$PROJECT_DIR$/Audio_Denoising/own_filter_test.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/pinknoise.m" beforeDir="false" afterPath="$PROJECT_DIR$/Audio_Denoising/pinknoise.m" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +76,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662809119244</updated>
-      <workItem from="1662809120579" duration="354000" />
+      <workItem from="1662809120579" duration="928000" />
     </task>
+    <task id="LOCAL-00001" summary="Reformatting files.">
+      <created>1662809515753</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662809515754</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Reformatting files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Reformatting files." />
   </component>
 </project>
