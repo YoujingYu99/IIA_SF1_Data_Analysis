@@ -11,14 +11,17 @@ Furthermore, I have implemented various probabilistic inference methods and expl
 Examples of tasks accomplished are demonstrated below:
 
 ### 1. Amplitude Modulation
-The windowed spectrum on audio files with amplitude modulation is shown in the figure below:
+The windowed spectrum on audio files with amplitude modulation is shown in the figure below:\
 (a) An + B:
+
 ![alt text](https://github.com/YoujingYu99/IIA_SF1_Data_Analysis/blob/master/plots/an1.jpg?raw=true)
 
 (b) 1 + β sin(φ n):
+
 ![alt text](https://github.com/YoujingYu99/IIA_SF1_Data_Analysis/blob/master/plots/an2.jpg?raw=true)
 
 (c) a_{n-1} + v_n:
+
 ![alt text](https://github.com/YoujingYu99/IIA_SF1_Data_Analysis/blob/master/plots/an3.jpg?raw=true)
 
 ### 2. Denoising Audios
